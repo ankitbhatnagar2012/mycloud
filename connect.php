@@ -5,10 +5,10 @@ if(!defined('INCLUDE_CHECK')) die('You are not allowed to execute this file dire
 
 /* Database config */
 
-$db_host		= 'localhost';
-$db_user		= 'root';
-$db_pass		= '';
-$db_database            = 'mycloud'; 
+$db_host		= '<HOST>';
+$db_user		= '<USER>';
+$db_pass		= '<PASSWORD>';
+$db_database            = '<DATABASE>'; 
 
 /* End config */
 
