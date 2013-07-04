@@ -1,0 +1,3 @@
+[04-Nov-2012 01:09:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/kpsfooin/public_html/mycloud/final/connect.php on line 15
+[04-Nov-2012 01:12:02] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'kpsfooin_root'@'localhost' (using password: NO) in /home/kpsfooin/public_html/mycloud/final/connect.php on line 15
+[04-Nov-2012 01:13:47] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'kpsfooin_root'@'localhost' (using password: NO) in /home/kpsfooin/public_html/mycloud/final/connect.php on line 15

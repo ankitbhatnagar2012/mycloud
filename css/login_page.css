@@ -1,0 +1,33 @@
+body {
+	background: #111111;
+	color: #ffffff;	
+}
+
+#container{
+	width: 100%;
+}
+
+#left_content{
+	width:49%;
+	height:auto;
+	float: left;
+	padding-top: 80px;
+	border-right: 3px solid #ffffff;
+}
+
+#right_content{
+	padding-top: 230px;
+	height:auto;
+	width:49%;	
+	float: right;
+}
+
+#bottom_content{
+	width:100%;
+	clear: both;		
+}
+
+#bottom_content a{
+	color: #ffffff;
+	text-decoration: none;
+}
